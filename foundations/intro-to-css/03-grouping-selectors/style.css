@@ -8,7 +8,7 @@
     background-color: yellow;
 }
 
-.size-font{
+.first-btn, .second-btn{
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', 'sans-serif';
 }
